@@ -1,0 +1,10 @@
+en-US:
+  settings:    
+    content:
+      groups: 
+        markup_extensions:
+          label: 'Markup extensions'
+          settings:
+            slideshare:
+              label: 'SlideShare'
+              description: Enable SlideShare extension.

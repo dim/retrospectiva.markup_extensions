@@ -1,0 +1,10 @@
+---
+- !ruby/object:RetroCM::Section
+  name: 'content'
+  groups: 
+    - !ruby/object:RetroCM::Group
+      name: 'markup_extensions'
+      settings:
+        - !ruby/object:RetroCM::BooleanSetting
+          name: 'slideshare'
+          default: false
